@@ -1,0 +1,9 @@
+{
+  // ========== PrizmDoc Cloud (Accusoft-hosted PAS) ==========
+  "pasBaseUrl": "https://api.accusoft.com/prizmdoc",
+  "apiKey": "i2TeXVdFsLMwOml4MSn78Bc5B_e2M7htKSUNxMQbiXH_aXrfyIdGA3AFcAjPWeHa", // Get an API key for free at https://cloud.accusoft.com
+
+  // ========== Self-hosted PAS ==========
+  //"pasBaseUrl": "YOUR_PAS_BASE_URL",
+  //"pasSecretKey": "YOUR_PAS_SECRET_KEY", // The "secretKey" value defined in your PAS config file.
+}
