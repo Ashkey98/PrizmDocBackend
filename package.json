@@ -15,10 +15,11 @@
     "morgan": "^1.10.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "semver": "^5.7.1"
+    "semver": "^5.7.1",
+    "json5": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "^8.7.0",
-    "json5": "^2.2.0"
+    
   }
 }
